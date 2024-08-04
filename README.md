@@ -1,5 +1,3 @@
-# salman-naveed
-
 - 👋 Hi, I’m Salman Naveed
 - 👀 I’m interested in learning new technologies and building systems
 - 🌱 I’m currently working on and learning embedded systems programming
